@@ -1,5 +1,3 @@
-
-
 [SCRIPT]
 #U FUNCTION URLEncode "<USER>" -> VAR "U" 
 
